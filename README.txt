@@ -1,1 +1,1 @@
-This project is awesome.
+This project is totally awesome.
